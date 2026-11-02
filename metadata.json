@@ -1,0 +1,6 @@
+{
+  "name": "Matir Unun — Authentic Bengali Gastronomy",
+  "description": "Authentic wood-fired Bengali fine dining celebrating earthen clay handi cooking, stone-ground sheel-nora spices, and heirloom Kansa bell-metal feasts in Kolkata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
